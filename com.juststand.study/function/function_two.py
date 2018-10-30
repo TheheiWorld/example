@@ -37,6 +37,7 @@ f3(name='juststand', age=22)
 
 school = "maitao"
 
+# 不好的方式
 def change_name():
     global school
     school = "heima"

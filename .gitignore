@@ -18,5 +18,4 @@ bin/
 target/
 *.iml
 .idea/
-src/main/resources/hession.properties
 .DS_Store

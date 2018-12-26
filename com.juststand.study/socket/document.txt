@@ -1,0 +1,16 @@
+-- 查找奖金
+select * from broker_log where log_type = 7
+-- 查找奖金
+select * from broker_log where log_type = 7
+-- 查找奖金
+select * from broker_log where log_type = 7
+-- 查找奖金
+select * from broker_log where log_type = 7
+-- 查找奖金
+select * from broker_log where log_type = 7
+-- 查找奖金
+select * from broker_log where log_type = 7
+-- 查找奖金
+select * from broker_log where log_type = 7
+-- 查找奖金
+select * from broker_log where log_type = 7
